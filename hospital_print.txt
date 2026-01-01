@@ -1,0 +1,34 @@
+HOSPITAL TEST REPORT
+
+Patient: hamza | CNIC: 3230427849851
+Test: malaria | Result: positive
+Date: 2025-12-30 | Dept: physition
+----------------------------------------
+Patient: Ali | CNIC: 3230466646175
+Test: CBC | Result: Low HB
+Date: 2025-12-30 | Dept: physition
+----------------------------------------
+Patient: hamza | CNIC: 3230427849851
+Test: malaria | Result: positive
+Date: 2025-12-30 | Dept: physition
+----------------------------------------
+Patient: hamza | CNIC: 3230427849851
+Test: CBc | Result: NORMAL
+Date: 2025-12-31 | Dept: phystion
+----------------------------------------
+Patient: Ali | CNIC: 3230466646175
+Test: CBC | Result: normal
+Date: 2025-12-31 | Dept: Orthopedics
+----------------------------------------
+Patient: muzmil | CNIC: 323042784954
+Test: CBC | Result: Normal
+Date: 2025-12-31 | Dept: Orthopedics
+----------------------------------------
+Patient: abubakir | CNIC: 323056734764
+Test: Maleria | Result: Negitive
+Date: 2025-12-31 | Dept: Orthopedics
+----------------------------------------
+Patient: Ali | CNIC: 3230466646175
+Test: ECG | Result: Normal
+Date: 2025-12-31 | Dept: Cardiology
+----------------------------------------
